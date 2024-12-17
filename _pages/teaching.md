@@ -56,7 +56,7 @@ ________________
 * [IARIA](https://www.iariajournals.org/networks_and_services/) International Journal on Advances in Networks and Services
 ________________
 **Guest Editor**
-* [MDPI Future Internet](https://www.mdpi.com/journal/futureinternet/special_issues/HWGT693C06) Task Offloading and Resource Allocation for IoT in Next-Generation Networking 
+* [MDPI Future Internet](https://www.mdpi.com/journal/futureinternet/special_issues/HWGT693C06) Special Issue: Task Offloading and Resource Allocation for IoT in Next-Generation Networking 
 ________________
 **TPC Member**
 *	IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2024)
