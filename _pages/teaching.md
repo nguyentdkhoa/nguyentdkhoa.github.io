@@ -43,11 +43,11 @@ _______________________
 Teaching Assistance
 ===========
 ________________
-* SYSC5801F/W - Advanced Topic in Computer Communications (Fall 2016, Winter 2016)
-* SYSC5001W – Discrete Simulation/Modelling (LEC) (Winter 2019)
-* SYSC2310A – Introduction to Digital Systems (Fall 2017)
-* SYSC2004 – Object-Oriented Software Development (LEC) (Fall 2018, Winter 2018, Winter 2019)
-* ECOR1606 – Problem Solving and Computers (Winter 2017, Summer 2017)	
+* SYSC5801F/W - Advanced Topic in Computer Communications (2016F, 2016W)
+* SYSC5001W – Discrete Simulation/Modelling (LEC) (2019W)
+* SYSC2310A – Introduction to Digital Systems (2017F)
+* SYSC2004 – Object-Oriented Software Development (LEC) (2018F, 2018W, 2019W)
+* ECOR1606 – Problem Solving and Computers (2017W, 2017S)	
 
 Professional Services
 ============
@@ -62,30 +62,32 @@ ________________
 ________________
 **TPC Member**
 *	IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2024)
-*	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024)
-*	IEEE International Conference on Signal Processing and Integrated Networks (SPIN 2024)
+*	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024-2025)
+*	IEEE International Conference on Signal Processing and Integrated Networks (SPIN 2024-2025)
 *	IEEE International Conference on Intelligent Computing and Next Generation Networks (ICNGN 2024)
 *	IEEE International Conference on Geoinformation Science and Communication Technology (GSCT 2025)
+*	International Conference on Computing and Information Technology (CITE 2025)
+*	International Symposium on Intelligent Technology for Future Transportation (ITFT 2024-2025)
+*	International Conference of Advanced Computer Science & Information Technology (ACSIT 2025)
+*	Intelligent Systems Conference (IntelliSys 2024-2025)
+*	Future of Information and Communication Conference (FICC 2024-2025)
+*	Future Technologies Conference (FTC 2024-2025)	
+*	IARIA International Conference on Communication Theory, Reliability, and Quality of Service (CTRQ 2024-2025)
+*	IARIA International Conference on Digital Telecommunications (ICDT 2024)
+*	IARIA International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services (CENTRIC 2022-2025)
+*	IARIA International Conference on Networking and Services (ICNS 2025)
+*	International Conference on  Algorithms, Network and  Communication Technology (ICANCT 2024)
+*	International Conference on Applied Mathematics and Information Systems (AMIS 2024)
 *	International Conference on Information Society and Smart City (ISSC 2024)
 *	International Conference on Computer Vision and Control Systems (CVCS 2025)
-*	International Symposium on Intelligent Technology for Future Transportation (ITFT) 2024.
-*	Intelligent Systems Conference (IntelliSys) 2024
-*	Future of Information and Communication Conference (FICC) 2024
-*	FTC 2024 - Future Technologies Conference 2024
-*	International Conference on  Algorithms, Network and  Communication Technology (ICANCT 2024)
-*	International Conference in Optical Communication and Computer Engineering (ICOCCE 2024)
-*	International Conference on Applied Mathematics and Information Systems (AMIS 2024)
-*	International Conference on Digital Telecommunications (ICDT 2024)
 *	International Conference on Automation Engineering and Artificial Intelligence (ICAEAI 2024)
-*	International Conference on Communication Theory, Reliability, and Quality of Service (CTRQ 2024)
 *	International Conference on Artificial Intelligence and Smart Transportation Systems (AISTS 2024)
-*	IARIA International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services (CENTRIC 2022-2024)
-*	IARIA International Conference on Networking and Services (ICNS 2025)
+*	International Conference in Optical Communication and Computer Engineering (ICOCCE 2024)
 
    
 
 **Workshop Chair**
-* International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA) 2022-2024. Topic: Evolutionary Computation for Intelligent Communication Networks in Smart Cities.
+* IEEE International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA) 2022-2024. Topic: Evolutionary Computation for Intelligent Communication Networks in Smart Cities.
   
 
 **Reviewer**
