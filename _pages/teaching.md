@@ -87,7 +87,8 @@ ________________
    
 
 **Workshop Chair**
-* IEEE International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA) 2022-2024. Topic: Evolutionary Computation for Intelligent Communication Networks in Smart Cities.
+* IEEE International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA 2022-2024).
+  Topic: Evolutionary Computation for Intelligent Communication Networks in Smart Cities.
   
 
 **Reviewer**
