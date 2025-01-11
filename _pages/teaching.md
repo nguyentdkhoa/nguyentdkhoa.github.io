@@ -99,6 +99,7 @@ ________________
   * Elsevier Journal of Network and Computer Applications
   * Springer Nature Journal of Supercomputing
   * Springer Nature Journal of Cluster Computing
+  * Springer Nature Journal of Cloud Computing
   * Springer Nature Journal of Computing
   * Springer Nature Artificial Intelligence Review Journal
   * Wiley International Journal of Communication Systems
