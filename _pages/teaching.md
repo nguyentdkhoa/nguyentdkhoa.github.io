@@ -94,7 +94,8 @@ ________________
 **Reviewer**
 * Journals:
   * IEEE Internet of Things Journal
-  * IEEE Transaction on Network and Service Management
+  * IEEE Transactions on Vehicular Technology
+  * IEEE Transactions on Network and Service Management
   * IEEE Access
   * Elsevier Journal of Network and Computer Applications
   * Springer Nature Journal of Supercomputing
