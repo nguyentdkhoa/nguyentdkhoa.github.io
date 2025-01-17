@@ -21,10 +21,10 @@ Scholarships:
 
 Certificates
 ======
-* Google Technical Support Fundamentals | 2025
-* Next-Generation Firewalls and Intrusion Prevention | 2024
-* Foundations of Cybersecurity | 2024
-* AWS Cloud Technical Essentials | 2024
-* Neural Networks and Deep Learning | 2019
-* Certificate of Mobile Technologies and Services Training Program | 2014
-* Certificate in Teaching Methodology | 2013
+* Google Technical Support Fundamentals || 2025
+* Next-Generation Firewalls and Intrusion Prevention || 2024
+* Foundations of Cybersecurity || 2024
+* AWS Cloud Technical Essentials || 2024
+* Neural Networks and Deep Learning || 2019
+* Certificate of Mobile Technologies and Services Training Program || 2014
+* Certificate in Teaching Methodology || 2013
