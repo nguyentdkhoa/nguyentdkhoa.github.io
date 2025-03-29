@@ -23,6 +23,7 @@ Certificates
 ======
 * Generative AI with Large Language Models - 2025
 * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - 2025
+* Structuring Machine Learning Projects - 2025
 * Google Technical Support Fundamentals - 2025
 * Nature Masterclasses: Focus on Peer Review - 2025
 * Next-Generation Firewalls and Intrusion Prevention - 2024
