@@ -54,7 +54,7 @@ Professional Services
 ________________
 **Advisory Board Member**
 * [DergiPark](https://dergipark.org.tr/en/pub/jaste/board) Journal of Advanced Science, Technology, and Engineering
-* [HKST] (https://www.hkstmpress.com/journals/JIC/) Journal of Information and Computing
+* [HKST](https://www.hkstmpress.com/journals/JIC/) Journal of Information and Computing
 * [IARIA](https://www.iariajournals.org/networks_and_services/) International Journal on Advances in Networks and Services
   
 ________________
