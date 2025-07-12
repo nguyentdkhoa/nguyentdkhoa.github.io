@@ -15,7 +15,7 @@ My name is Khoa Nguyen. I am a Postdoctoral Fellow at Carleton University. I rec
 Recent News
 ======
 _____________
-* Jul 11, 2025: Invited to serve on the Advisory Board for the DergiPark Journal of Advanced Science, Technology, and Engineering, Turkey. 
+* Jul 11, 2025: Invited to serve on the Advisory Board for the [DergiPark](https://dergipark.org.tr/en/pub/jaste) Journal of Advanced Science, Technology, and Engineering, Turkey. 
 * Aug 10, 2024: Our paper submitted to IEEE Transactions on Vehicular Technology entitled "Dynamic Virtual Network Embedding Leveraging Neighborhood and Preceding Mappings Information" has been accepted for publication. 
 * Mar 27, 2024: Our paper "Online Resource Allocation in Internet of Vehicles Using Topology Attribute-Aware Genetic Algorithm" submitted to [IWCMC 2024](https://iwcmc.net/2024/index.php) conference has been accepted for publication. (Acceptance rate: 39%)
 * Oct 17, 2022: Our paper "Cost-aware Node Ranking Algorithm for Embedding Virtual Networks in Internet of Vehicles" submitted to [EAI AICON 2022](https://aicon-conf.eai-conferences.org/2022/) conference has been accepted for publication. 
