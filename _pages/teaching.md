@@ -52,7 +52,8 @@ ________________
 Professional Services
 ============
 ________________
-**Editor Board Member**
+**Advisory Board Member**
+* [DergiPark](https://dergipark.org.tr/en/pub/jaste/board) Journal of Advanced Science, Technology, and Engineering
 * [IARIA](https://www.iariajournals.org/networks_and_services/) International Journal on Advances in Networks and Services
   
 ________________
