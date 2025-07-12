@@ -15,12 +15,13 @@ My name is Khoa Nguyen. I am a Postdoctoral Fellow at Carleton University. I rec
 Recent News
 ======
 _____________
+* Jul 11, 2025: Invited to serve on the Advisory Board for the DergiPark Journal of Advanced Science, Technology, and Engineering, Turkey. 
 * Aug 10, 2024: Our paper submitted to IEEE Transactions on Vehicular Technology entitled "Dynamic Virtual Network Embedding Leveraging Neighborhood and Preceding Mappings Information" has been accepted for publication. 
 * Mar 27, 2024: Our paper "Online Resource Allocation in Internet of Vehicles Using Topology Attribute-Aware Genetic Algorithm" submitted to [IWCMC 2024](https://iwcmc.net/2024/index.php) conference has been accepted for publication. (Acceptance rate: 39%)
 * Oct 17, 2022: Our paper "Cost-aware Node Ranking Algorithm for Embedding Virtual Networks in Internet of Vehicles" submitted to [EAI AICON 2022](https://aicon-conf.eai-conferences.org/2022/) conference has been accepted for publication. 
 * Oct 11, 2022: Our paper "A Dynamic Vehicle-Ranking Approach for Online Virtual Network Embedding in Internet of Vehicles" submitted to [ITNAC 2022](https://itnac.org.au/) conference has been accepted for publication. 
 * Apr 12, 2022: Our paper submitted to IEEE Access entitled "Parked Vehicles Task Offloading in Edge Computing" has been accepted for publication. 
-* Mar 28, 2022: Invited to serve on the TPC for CENTRIC 2022 Confernce, Lisbon, Portugal.
+* Mar 28, 2022: Invited to serve as a TPC for CENTRIC 2022 Confernce, Lisbon, Portugal.
 * Mar 11, 2022: Our paper "Towards Adaptive Joint Node and Link Mapping Algorithms for Embedding Virtual Networks: A Conciliation Strategy" submitted to IEEE Transaction on Network and Service Management has been accepted for publication.
 * Oct 04, 2021: I have been awarded a Student Grant from IEEE Global Communications Conference (Globecom2021)
 * Aug 16, 2021: Our paper "Joint Node-Link Algorithm for Embedding Virtual Networks with Conciliation Strategy" submitted to Globecom2021 conference has been accepted for publication. 
