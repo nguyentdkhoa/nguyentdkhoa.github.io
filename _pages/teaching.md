@@ -64,10 +64,12 @@ ________________
 ________________
 **TPC Member**
 *	IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2024-2025)
-*	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024-2025)
+*	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024-2026)
 *	IEEE International Conference on Signal Processing and Integrated Networks (SPIN 2024-2025)
 *	IEEE International Conference on Intelligent Computing and Next Generation Networks (ICNGN 2024)
 *	IEEE International Conference on Geoinformation Science and Communication Technology (GSCT 2025)
+*	International Conference on Computer Vision Conference (CVC 2026)
+*	International Conference on Computing Conference (Computing 2026)
 *	International Conference on Computing and Information Technology (CITE 2025)
 *	International Symposium on Intelligent Technology for Future Transportation (ITFT 2024-2025)
 *	International Conference of Advanced Computer Science & Information Technology (ACSIT 2025)
@@ -105,6 +107,7 @@ ________________
   * Springer Nature Journal of Cloud Computing
   * Springer Nature Journal of Computing
   * Springer Nature Artificial Intelligence Review Journal
+  * Springer Nature Wireless Personal Communications
   * Wiley IET Software Journal
   * Wiley International Journal of Communication Systems
   * IEC Journal of Networking and Network Applications
