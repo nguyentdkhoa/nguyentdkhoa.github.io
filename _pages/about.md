@@ -9,12 +9,13 @@ redirect_from:
 ---
 ______________
 Hello, 
-My name is Khoa Nguyen. I am a Postdoctoral Fellow at Carleton University. I received M.Sc. degree in Telecommunications Engineering from the University of Sunderland, England, in 2013 and the Ph.D. degree in Electrical and Computer Engineering under the supervision of [Professor Changcheng Huang](http://www.sce.carleton.ca/faculty/huang/huang.html) at the Department of Systems and Computer Engineering, Carleton University, Canada, in 2021, respectively. My main research interests include communication networks, cloud/edge computing, parked vehicle edge computing (PVEC), Internet of Vehicles (IoV), software-defined networking (SDN), network function virtualization (NFV), containerization technologies, evolutionary algorithms, and AI/ML applications. I worked as an intern at [BitQubic](https://www.bitqubic.com/) funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) conducting a research on extensible and reliable edge computing infrastructure.  
+My name is Khoa Nguyen. I am currently a MITACS Postdoctoral Fellow at Carleton University. I received M.Sc. degree in Telecommunications Engineering from the University of Sunderland, England, in 2013 and the Ph.D. degree in Electrical and Computer Engineering under the supervision of [Professor Changcheng Huang](http://www.sce.carleton.ca/faculty/huang/huang.html) at the Department of Systems and Computer Engineering, Carleton University, Canada, in 2021, respectively. My main research interests include communication networks, cloud/edge computing, parked vehicle edge computing (PVEC), Internet of Vehicles (IoV), software-defined networking (SDN), network function virtualization (NFV), containerization technologies, evolutionary algorithms, and AI/ML applications. I worked as an intern at [BitQubic](https://www.bitqubic.com/) funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) conducting a research on extensible and reliable edge computing infrastructure.  
 
 
 Recent News
 ======
 _____________
+* Oct 14, 2026: Our collaborative paper with Prof. Drew (University of Calgary), titled “Green Offloading and Model Size Adaptation for Federated Learning in IoT and Next-Generation Networks,” has been published in the Future Internet journal. 
 * Jul 11, 2025: Invited to serve on the Advisory Board for the [DergiPark](https://dergipark.org.tr/en/pub/jaste) Journal of Advanced Science, Technology, and Engineering, Turkey. 
 * Aug 10, 2024: Our paper submitted to IEEE Transactions on Vehicular Technology entitled "Dynamic Virtual Network Embedding Leveraging Neighborhood and Preceding Mappings Information" has been accepted for publication. 
 * Mar 27, 2024: Our paper "Online Resource Allocation in Internet of Vehicles Using Topology Attribute-Aware Genetic Algorithm" submitted to [IWCMC 2024](https://iwcmc.net/2024/index.php) conference has been accepted for publication. (Acceptance rate: 39%)
